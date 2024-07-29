@@ -1,0 +1,2 @@
+ole.log(returnHowManyArguments('one'));
+console.log(returnHowManyArguments());
